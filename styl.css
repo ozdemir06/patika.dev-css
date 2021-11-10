@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+    color: red;
+}
+article{
+    text-align: center;
+}
+nav {
+    margin: auto;
+    width: 60%;
+    height: 45px;
+    border: 3px solid #569103bb;
+    border-radius: 20px;
+    border-left-color: red;
+    border-right-color: red;
+    border-left-width: 6px;
+    border-right-width: 6px;
+    background-color: rgb(62, 240, 210);
+}
+nav ul{
+    padding-left: 30%;
+    list-style-type: none;
+    margin-top: 5px;
+   
+}
+nav li{
+    float: left;
+}
+nav li a{
+display: block;
+padding: 1px 14px;
+background-color: white;
+text-align: center;
+}
+ol{
+    text-align: center;
+}
+img{
+    height: 200px;
+}
+ul {
+    list-style-type: none;
+}
+nav ul li a {
+    background-color: rgb(17, 184, 156);
+}
+article ul li{
+    background-color: rgb(101, 50, 240); 
+}
+article ul li span { 
+    background-color: rgb(96, 228, 228);
+    font-size: 25px;
+}
